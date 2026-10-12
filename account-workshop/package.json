@@ -1,0 +1,17 @@
+{
+  "name": "account-workshop",
+  "version": "1.0.0",
+  "description": "Mini Project #2 - Node.js Express MongoDB user management",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "node --watch server/app.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.7.0"
+  }
+}
