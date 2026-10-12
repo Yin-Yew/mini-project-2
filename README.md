@@ -53,7 +53,6 @@ npm run dev
 1. **ภาพที่ 1**: Terminal แสดง `เชื่อมต่อ MongoDB สำเร็จ` และ `Server running at http://localhost:3000`
 2. **ภาพที่ 2**: หน้าจอ Browser แสดงผลสมัครสมาชิกและรายชื่อสมาชิก หรือ Network tab ที่เห็น API สำเร็จ
 
-เมื่อถ่ายภาพแล้ว ให้บันทึกเป็น `account-workshop/screenshots/debug-1.png` และ `account-workshop/screenshots/debug-2.png` และแทนที่บรรทัดด้านล่างด้วยภาพจริง (ไม่ควรส่งงานโดยไม่มีภาพ)
 
 ![หลักฐานการดีบักภาพที่ 1](account-workshop/screenshots/debug-1.png)
 
